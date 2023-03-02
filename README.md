@@ -10,7 +10,7 @@ As a C# and ReactJS developer, I possess strong skills in both back-end and fron
 * ✉️  You can contact me at [chukwuchidieberejohn@gmail.com](mailto:chukwuchidieberejohn@gmail.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I can be very weird sometimes.
+* ⚡  I am an introvert.
 
 <a href="https://www.twitter.com/_jhonChukwu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_jhonChukwu?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
