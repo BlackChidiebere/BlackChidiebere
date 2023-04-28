@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-As a C# and Angular developer, I have strong skills in both back-end and front-end technologies. I can develop robust server-side applications using .NET and C#, and build complex user interfaces with Angular. I have experience with data modeling, agile methodologies, version control, and testing. I am familiar with tools such as Git and Visual Studio Code. My proficiency in C#, and Angular makes me a valuable asset to any development team.
+I am a C# and Angular developer, I have strong skills in both back-end and front-end technologies. I can develop robust server-side applications using .NET and C#, and build complex user interfaces with Angular. I have experience with data modeling, agile methodologies, version control, and testing. I am familiar with tools such as Git and Visual Studio Code. My proficiency in C#, and Angular makes me a valuable asset to any development team.
 
 * 🌍  I'm based in Enugu, Nigeria
 * ✉️  You can contact me at [chukwuchidieberejohn@gmail.com](mailto:chukwuchidieberejohn@gmail.com)
