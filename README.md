@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a C# and Angular developer with strong skills in both back-end and front-end technologies. I have experience in designing and implementing data models using frameworks such as Entity Framework and am familiar with agile methodologies, version control, and testing. I am proficient in using tools such as Git, Visual Studio Code, JetBrains Webstorm, and JetBrains Rider. My expertise in C# and Angular makes me a valuable asset to any development team.
+I am a highly skilled C#, Node and Angular developer with 2+ years of experience in both back-end and front-end development. I have a strong understanding of data modeling and design, and I am proficient in using a variety of development tools and technologies. I am also familiar with agile methodologies, version control, and testing.
+
+My expertise in C#, Node and Angular makes me a valuable asset to any development team. I am confident that I can contribute to the success of any project, and I am eager to learn new things and take on new challenges.
 
 * 🌍  I'm based in Enugu, Nigeria
 * ✉️  You can contact me at [chukwuchidieberejohn@gmail.com](mailto:chukwuchidieberejohn@gmail.com)
