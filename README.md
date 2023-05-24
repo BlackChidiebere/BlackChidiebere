@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a highly skilled C#, Node and Angular developer with 2+ years of experience in both back-end and front-end development. I have a strong understanding of data modeling and design, and I am proficient in using a variety of development tools and technologies. I am also familiar with agile methodologies, version control, and testing.
+I am a skilled .Net and Angular developer with 2+ years of experience in both back-end and front-end development. I have a strong understanding of data modeling and design, and I am proficient in using a variety of development tools and technologies. I am also familiar with agile methodologies, version control, and testing.
 
 My expertise in C#, Node and Angular makes me a valuable asset to any development team. I am confident that I can contribute to the success of any project, and I am eager to learn new things and take on new challenges.
 
