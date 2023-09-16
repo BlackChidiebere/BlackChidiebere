@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/chidieb11"><img src="https://api.daily.dev/devcards/f954dde721e84faea0814db6598d47af.png?r=xzy" width="400" alt="John's Dev Card"/></a>
+
 Hey ✌️
 ============================================================================================================================
 
