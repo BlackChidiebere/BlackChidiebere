@@ -6,11 +6,11 @@ Hey ✌️
 Web Developer
 -------------
 
-I write .Net and ReactJs 😎
+I write .Net, GoLang, NestJs and ReactJs 😎
 
 * 🌍  Earth
 * ✉️  You can contact me at [chukwuchidieberejohn@gmail.com](mailto:chukwuchidieberejohn@gmail.com)
-* 🧠  I'm learning NextJs
+* 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am very passionate about learning
 
